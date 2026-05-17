@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "TEAMIDHERE.com.yourcompany.yourapp"
+                ],
+                "components": [
+                    {
+                        "/": "/*",
+                        "comment": "Matches any URL"
+                    }
+                ]
+            }
+        ]
+    }
+}
